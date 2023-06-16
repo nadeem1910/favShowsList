@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/favShowsList/static/css/main.eebfdd63.css",
+    "main.js": "/favShowsList/static/js/main.e044ec3d.js",
+    "index.html": "/favShowsList/index.html",
+    "main.eebfdd63.css.map": "/favShowsList/static/css/main.eebfdd63.css.map",
+    "main.e044ec3d.js.map": "/favShowsList/static/js/main.e044ec3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eebfdd63.css",
+    "static/js/main.e044ec3d.js"
+  ]
+}
