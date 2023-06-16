@@ -8,7 +8,7 @@ import Details from './Details';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <h1 className='heading__style'>My Favorite Shows List</h1>
+    <h1 className='heading__style'>My Favorite TV Shows List</h1>
     {  /* earlier we write -> {Details.map(function SCard(val){...} */
       Details.map((val) => {     // now this is fat arrow representation
         return(
